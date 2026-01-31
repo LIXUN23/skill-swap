@@ -1,0 +1,8 @@
+{
+  "name": "Skill Swap",
+  "description": "A high-end, monochromatic sage skill-swapping platform focusing on academic aesthetics and organic textures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
