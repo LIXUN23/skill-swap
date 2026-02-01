@@ -11,7 +11,9 @@ import {
 import { SkillSwapLogo } from './components/SkillSwapLogo';
 
 // REPLACE THIS with the URL you just copied from Render
-const API_BASE = "https://skill-swap-backend.onrender.com";
+// OLD: const API_BASE = "http://127.0.0.1:8000";
+// NEW: Paste your Render URL here
+const API_BASE = "https://skill-swap-backend-syn9.onrender.com";
 
 const COLORS = {
   bg: "#F4F7F5",
